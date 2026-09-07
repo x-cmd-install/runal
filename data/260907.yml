@@ -5,7 +5,7 @@ about:
   head: 8de7b87
   archived: false
   latestVersion: "v0.13.0"
-  collectedAt: 2026-09-07T05:27:00Z
+  collectedAt: 2026-09-07T19:10:46Z
 timeline:
   created: 2024-12-25
   lastCommit: 2026-08-11
@@ -81,7 +81,7 @@ total:
   commit: 306
 ---
 path: /home/runner/.x-repo/github.com/emprcl/runal
-collectedAt: 2026-09-07T05:27:02Z
+collectedAt: 2026-09-07T19:10:48Z
 loc:
   Go:
     code: 4549
@@ -112,7 +112,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:27:02+00:00
+  collectedAt: 2026-09-07T19:10:48+00:00
   platform:
     darwin/arm64:
       name:  runal_0.13.0_darwin_arm64.tar.gz
