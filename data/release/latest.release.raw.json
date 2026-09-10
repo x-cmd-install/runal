@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5712421,
       "digest": "sha256:36b7017631b5a2a02e0c25617186acd19b407bb3cd8befb4daa7390df8e8fc70",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-08-11T10:45:46Z",
       "updated_at": "2026-08-11T10:45:46Z",
       "browser_download_url": "https://github.com/emprcl/runal/releases/download/v0.13.0/runal_0.13.0_linux_amd64.tar.gz"
