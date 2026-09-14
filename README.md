@@ -41,18 +41,18 @@ Total: **5,200** lines of code across **86** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 13 · **Open PRs**: 2 · **Closed issues**: 25 · **Open issues**: 6 · **Commits**: 306
+- **Releases**: 24 · **Merged PRs**: 13 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 6 · **Commits**: 306
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 2 | 0 | 2 | 0 | 0 | 3 |
-| 90d | 2026-06-15 | 2 | 0 | 2 | 0 | 0 | 3 |
-| last180d | 2026-03-17 | 4 | 0 | 2 | 0 | 0 | 12 |
-| 360d | 2025-09-18 | 11 | 7 | 2 | 5 | 3 | 52 |
-| last720d | 2024-09-23 | 24 | 13 | 2 | 25 | 6 | 306 |
+| 30d | 2026-08-15 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 2 | 0 | 3 | 0 | 0 | 3 |
+| 90d | 2026-06-16 | 2 | 0 | 3 | 0 | 0 | 3 |
+| last180d | 2026-03-18 | 4 | 0 | 3 | 0 | 0 | 12 |
+| 360d | 2025-09-19 | 11 | 7 | 3 | 4 | 3 | 52 |
+| last720d | 2024-09-24 | 24 | 13 | 3 | 25 | 6 | 306 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for runal lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:39:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:56:52Z._
