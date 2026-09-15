@@ -47,12 +47,12 @@ Total: **5,200** lines of code across **86** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 2 | 0 | 3 | 0 | 0 | 3 |
-| 90d | 2026-06-16 | 2 | 0 | 3 | 0 | 0 | 3 |
-| last180d | 2026-03-18 | 4 | 0 | 3 | 0 | 0 | 12 |
-| 360d | 2025-09-19 | 11 | 7 | 3 | 4 | 3 | 52 |
-| last720d | 2024-09-24 | 24 | 13 | 3 | 25 | 6 | 306 |
+| 30d | 2026-08-16 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-17 | 2 | 0 | 3 | 0 | 0 | 3 |
+| 90d | 2026-06-17 | 2 | 0 | 3 | 0 | 0 | 3 |
+| last180d | 2026-03-19 | 4 | 0 | 3 | 0 | 0 | 12 |
+| 360d | 2025-09-20 | 11 | 7 | 3 | 4 | 3 | 52 |
+| last720d | 2024-09-25 | 24 | 13 | 3 | 25 | 6 | 306 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for runal lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:56:52Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:57:32Z._
