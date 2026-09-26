@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 687,
       "digest": "sha256:82019ecbb5030da5d4a06b2f3e6d082024a419420e8e0ce55614b318d45fb18c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-11T10:45:46Z",
       "updated_at": "2026-08-11T10:45:46Z",
       "browser_download_url": "https://github.com/emprcl/runal/releases/download/v0.13.0/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5712421,
       "digest": "sha256:36b7017631b5a2a02e0c25617186acd19b407bb3cd8befb4daa7390df8e8fc70",
-      "download_count": 52,
+      "download_count": 53,
       "created_at": "2026-08-11T10:45:46Z",
       "updated_at": "2026-08-11T10:45:46Z",
       "browser_download_url": "https://github.com/emprcl/runal/releases/download/v0.13.0/runal_0.13.0_linux_amd64.tar.gz"
