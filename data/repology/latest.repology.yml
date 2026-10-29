@@ -4,9 +4,21 @@
   visiblename: runal
   version: 0.7.0
   origversion: 0.7.0-1
-  status: unique
+  status: outdated
   summary: text-based creative coding environment for the terminal
   maintainers:
     - shm@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: runal-bin
+  binname: runal-bin
+  visiblename: runal-bin
+  version: 0.13.0
+  origversion: 0.13.0-1
+  status: unique
+  summary: A creative coding environment for the terminal
+  maintainers:
+    - dominiquini@aur
   licenses:
     - MIT
